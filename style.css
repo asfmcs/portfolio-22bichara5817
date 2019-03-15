@@ -1,0 +1,158 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #030303;
+}
+
+#intro-div{
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.5) rgba(187,187,187,0.5), rgba(255,255,255,0.5));
+  margin: none;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #bbb;
+  color: black;
+}
+
+/* Style the content */
+.content {
+  background-color: #bbb;
+  text-align: center;
+  padding: 10px;
+  height: 200px; 
+  margin: none;
+}
+
+#all {
+  background-image: linear-gradient(to top, rgba(187,187,187,0.5), rgba(255,255,255,0.5))}
+}
+
+/* Style the footer */
+
+#webd {
+  text-align: center;
+}
+
+#traveltd { 
+  width: 50%;
+}
+
+#recipetd{
+  width: 50%;
+}
+
+#blogtd{
+  width: 50%;
+}
+
+#invitationtd{
+  width: 50%;
+}
+
+#travel{
+  text-align: center;
+}
+#recipe{
+text-align: center
+}
+#blog{
+  text-align: center;
+}
+#invitation{
+  text-align: center;
+}
+
+#travelimage { 
+  float: center;
+  padding: none;
+  margin-left: 5%;
+  margin-right: 5%;}
+
+#recipeimage { 
+  float: center;
+  padding: none;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#blogimage { 
+  float: center;
+  padding: none;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#invitationimage { 
+  float: center;
+  padding: none;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+}
+
+#intro{
+  text-align: center
+}
+#introembed{
+  position: relative;
+  top: none;
+  bottom: none;
+  left: 15%;
+  right: 15%;
+}
+#introdiv{
+  padding: 20px;
+  margin: 20px;
+}
+
+h2 {
+  font-family: cursive, monospace;
+}
+
+#program {
+  text-align: center;
+}
+#vr {
+  text-align: center;
+}
+
+.footer a {
+  float: center;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  background-color: #bbb;
+  color: black;}
+
+.footer {
+  overflow: hidden;
+  background-color: #030303;}
+
+h1{
+    text-align: center;
+  }
