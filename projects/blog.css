@@ -1,0 +1,43 @@
+/* This text property highlights links in a different color when the user hovers over it with thier mouse */ 
+a:link {
+  color: #0000FF
+}
+a:visited {
+  color: #00FF00
+}
+a:hover {
+  color: #FF0033
+}
+
+
+/* Link properties end here */
+
+/* These text properties allow me to create a series of boxes that are side-by-side to showcase the hyperlink to the part of the webpage that it needs to go to. */
+
+div { background-color: rgb(255, 156, 225);}
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  color: white;
+}
+
+#div1 { width: 16%;
+  padding: 50px;
+  border: 5px solid  rgb(0, 100, 139);
+  margin: 0;
+  float: left;}
+
+#pdiv1 {
+  font-family: "Courier", monospace;
+  font-size: 1.5em;
+  text-align: center;
+}
+/* Box properties end here */
+
+body { background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rJI8ZWzzio4bewvs/orange-and-turquoise-spiral-particles-morph-and-ripple-against-a-blue-and-black-gradient-backdrop-looping-motion-background_hzijzdsm__F0005.png") }
+
+h2 {color: whitesmoke}
+
+p {color: antiquewhite;
+font-size: 1.3em}
